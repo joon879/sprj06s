@@ -23,7 +23,7 @@
 
 <a href="lee">lee</a>
 
-<a href="cha">cha</a>
+<a href="cha/cha1">cha</a>
 
 
 
